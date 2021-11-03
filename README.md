@@ -1,4 +1,4 @@
-# layoutsiteAD
+# CRIAÇÃO DE LAYOUT DE SITE UTILIZANDO O PHOTOSHOP
 Criação de layout de site usando Photoshop
 
 1) Escolha de Paleta de cores
