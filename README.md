@@ -18,3 +18,5 @@ https://color.adobe.com/pt/create/image
 
 Fonte escolhida: Games
 Site da fonte: https://www.dafont.com/pt/search.php?q=games
+
+<img width="332" alt="Fonte" src="https://user-images.githubusercontent.com/79849103/140189803-8151756e-6101-4bf5-b53c-9b60c41fa3b8.PNG">
