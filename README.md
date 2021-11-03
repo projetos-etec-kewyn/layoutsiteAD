@@ -6,9 +6,11 @@ Criação de layout de site usando Photoshop
 Imagem escolhida pra extração de cores:
 ![image](https://user-images.githubusercontent.com/79849103/138691311-340076f2-bb0a-481f-96f9-619ef1144b52.png)
 
+![paleta de cores](https://user-images.githubusercontent.com/79849103/140186511-1e9dc91e-8673-4ad5-935e-02692aec075a.jpg)
 
 
-Site utilizado para extrair as cores:
+
+Site utilizado para extração da paleta de cores:
 https://color.adobe.com/pt/create/image
 
 
