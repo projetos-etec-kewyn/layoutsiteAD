@@ -11,8 +11,6 @@ Imagem escolhida pra extração de cores:
 Site utilizado para extrair as cores:
 https://color.adobe.com/pt/create/image
 
-![image](https://user-images.githubusercontent.com/79849103/138691401-a66e1931-3d5f-417a-8337-caad9cf775f1.png)
-
 
 2) Escolha de Fonte:
 
